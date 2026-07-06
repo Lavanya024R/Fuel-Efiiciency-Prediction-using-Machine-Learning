@@ -1,0 +1,24 @@
+Enhancing Vehicle Fuel Efficiency Prediction Using Machine Learning
+
+This project predicts vehicle fuel efficiency (MPG) using machine learning techniques to promote sustainable transportation and optimize fuel consumption. The model is trained on the Auto MPG dataset from Kaggle, which contains vehicle specifications such as cylinders, displacement, horsepower, weight, acceleration, model year, and origin.
+
+The project includes data preprocessing, feature engineering, model training, evaluation, and deployment. Multiple machine learning algorithms were implemented and compared, including Linear Regression, Decision Tree, Random Forest, and Gradient Boosting. Model performance was evaluated using Mean Squared Error (MSE) and R² Score, with Random Forest achieving the best performance (MSE: 6.836, R²: 0.871).
+
+Key Features
+Data preprocessing and cleaning
+Exploratory Data Analysis (EDA)
+Multiple regression model implementation
+Model performance comparison
+Feature importance analysis
+Web-based prediction interface for real-time fuel efficiency prediction
+Tech Stack
+Python
+Pandas
+NumPy
+Scikit-learn
+Matplotlib
+Flask (for deployment)
+Results
+Compared four machine learning models for fuel efficiency prediction.
+Random Forest delivered the highest prediction accuracy.
+Demonstrated the potential of machine learning in improving fuel efficiency estimation and supporting eco-friendly transportation.
